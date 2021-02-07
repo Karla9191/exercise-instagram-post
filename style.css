@@ -1,3 +1,97 @@
+.body{
+    background-color: royalblue;
+
+}
 .post{
-    background: red;
+    background:#f6f6f6;
+    height: 700px;
+    width: 500px;
+    margin: 50px auto;
+}
+.post-header{
+    background: gray;
+    height: 70px;
+    width: 500px;
+}
+.icon{
+    background: green;
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+}
+.title{
+    background: hotpink;
+    float: left;
+    height: 50px;
+    width: 100px;
+    padding: 5px 5px;
+    margin:5px;
+}
+.settings{
+    background: indigo;
+    float: right;
+    height: 50px;
+    width: 290px;
+    padding: 5px 5px;
+    margin:5px;
+
+}
+
+.post-img{
+    background: lightblue;
+    height: 400px;
+    width: 500px;
+}
+
+
+.post-body{
+    background: lightcoral;
+    height: 230px;
+    width: 500px;
+}
+.post-font{
+    background:#ad6c80;
+    height: 70px;
+    width: 500px;
+}
+.heart{
+    background: limegreen;
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+}
+.message{
+    background: magenta;
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+}
+.send{
+    background: maroon;
+    height: 50px;
+    width: 50px;
+    float: left;
+    padding: 5px 5px;
+    margin:5px;
+}
+.save{
+    background: mediumblue;
+    height: 50px;
+    width: 50px;
+    float: right;
+    padding: 5px 5px;
+    margin:5px;
+}
+.text{
+    background: white;
+    height: 155px;
+    width: 490px;
+    float: left;
+    margin:2px;
 }
