@@ -95,3 +95,10 @@
     float: left;
     margin:2px;
 }
+
+.text > p {
+
+    padding-left: 15px;
+    text-align: justify;
+
+}
