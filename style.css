@@ -1,104 +1,111 @@
-.body{
-    background-color: royalblue;
 
-}
 .post{
-    background:#f6f6f6;
     height: 700px;
     width: 500px;
     margin: 50px auto;
+    border-style: solid;
 }
 .post-header{
-    background: gray;
+    
     height: 70px;
     width: 500px;
 }
 .icon{
-    background: green;
+   
     height: 50px;
     width: 50px;
     float: left;
     padding: 5px 5px;
     margin:5px;
+    font-size: 50px;
+    text-align: center;
 }
 .title{
-    background: hotpink;
+    
     float: left;
     height: 50px;
     width: 100px;
     padding: 5px 5px;
     margin:5px;
+    text-align: left;
+    line-height: 0.2; 
+ 
 }
 .settings{
-    background: indigo;
+   
     float: right;
     height: 50px;
     width: 290px;
     padding: 5px 5px;
     margin:5px;
+    font-size: 50px;
+    text-align: right;
 
 }
 
 .post-img{
-    background: lightblue;
+    
     height: 400px;
     width: 500px;
 }
 
 
 .post-body{
-    background: lightcoral;
+   
     height: 230px;
     width: 500px;
 }
 .post-font{
-    background:#ad6c80;
+    
     height: 70px;
     width: 500px;
 }
 .heart{
-    background: limegreen;
+    
     height: 50px;
     width: 50px;
     float: left;
     padding: 5px 5px;
     margin:5px;
+    font-size: 50px;
+    text-align: center;
 }
 .message{
-    background: magenta;
+    
     height: 50px;
     width: 50px;
     float: left;
     padding: 5px 5px;
     margin:5px;
+    font-size: 50px;
+    text-align: center;
 }
 .send{
-    background: maroon;
+    
     height: 50px;
     width: 50px;
     float: left;
     padding: 5px 5px;
     margin:5px;
+    font-size: 50px;
+    text-align: center;
 }
 .save{
-    background: mediumblue;
+  
     height: 50px;
     width: 50px;
     float: right;
     padding: 5px 5px;
     margin:5px;
+    font-size: 50px;
+    text-align: center;
 }
 .text{
-    background: white;
+   
     height: 155px;
     width: 490px;
     float: left;
     margin:2px;
 }
 
-.text > p {
 
-    padding-left: 15px;
-    text-align: justify;
-
-}
